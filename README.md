@@ -24,7 +24,8 @@ We hope all participants would consider giving a talk.
 2023年10月30日(月)-31(火) / Mon. 30th to Tue. 31st, October 2023
 
 ## 会場 / Venue
-東京工業大学・大岡山キャンパス / Tokyo Institute of Technology, Ookayama Campus
+東京工業大学・大岡山キャンパス / Tokyo Institute of Technology, Ookayama Campus  
+西8号館E棟10階大会議室 / Main Conference Room, 10F, West Bldg. 8E
 
 ## 住所 / Address
 
