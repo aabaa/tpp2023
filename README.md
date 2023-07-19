@@ -28,8 +28,7 @@ We hope all participants would consider giving a talk.
 
 ## 住所 / Address
 
-〒152-8550 東京都目黒区大岡山2-12-1 / 2-12-1 Oookayama, Meguro, Tokyo 152-8550
-
+〒152-8550 東京都目黒区大岡山2-12-1 / 2-12-1 Oookayama, Meguro, Tokyo 152-8550  
 [アクセス](https://www.titech.ac.jp/0/maps) / [Access](https://www.titech.ac.jp/english/0/maps)
 
 ## 懇親会 / Dinner Party
@@ -37,13 +36,13 @@ TBD
 
 ## 幹事 / Organizer
 
-中正和久 (山口大学工学部) /
-Kazuhisa NAKASHO (Faculty of Engineering, Yamaguchi University)
-Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
+中正和久 (山口大学工学部)  
+Kazuhisa NAKASHO (Faculty of Engineering, Yamaguchi University)  
+Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp  
 
-南出靖彦 (東京工業大学情報理工学院) /
-Yasuhiko MINAMIDE (Department of Mathematical and Computing Science, Tokyo Institute of Technology)
-Email: minamide&lt;at&gt;is.titech.ac.jp
+南出靖彦 (東京工業大学情報理工学院)  
+Yasuhiko MINAMIDE (Department of Mathematical and Computing Science, Tokyo Institute of Technology)  
+Email: minamide&lt;at&gt;is.titech.ac.jp  
 
 ## 参加申し込み / Registration
 10/25(水)までに / Please register by 25th October from
