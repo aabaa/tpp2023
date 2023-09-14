@@ -69,9 +69,9 @@ TPP研究集会はメーリングリストを運営しています．以下の�
 The TPP Meeting manages a mailing list. You can subscribe to the mailing list by following the instructions below:
 1. log in to [Google Group](https://groups.google.com/).
 1. search for a group.
-    - At the top, click **[My groups]** and select **[All groups and messages]**.
+    - At the top, click **My groups** and select **All groups and messages**.
     - In the search box, type "Theorem Proving and Provers" and press the **Enter** key.
-1. Select "Theorem Proving and Provers" in the search list and press **[Ask to join group]**.
+1. Select "Theorem Proving and Provers" in the search list and press **Ask to join group**.
 
 ## これまでのTPP / Past TPPs
 [TPP2022](https://t6s.github.io/tpp2022/) /
