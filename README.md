@@ -58,6 +58,21 @@ TBD
 ## TPPmark 
 TBD
 
+## Mailing List
+TPP研究集会はメーリングリストを運営しています．未登録の方は以下の手順で登録を行うことができます．
+1. [Google Group](https://groups.google.com/)にログインします．
+1. グループを検索します．
+    1. 上部の **マイグループ** をクリックし，**すべてのグループとメッセージ** を選択します．
+    1. 検索ボックスの**グループの名前**に「Theorem Proving and Provers」と入力してEnterキーを押します．
+1. 検索リストの「Theorem Proving and Provers」を選択して，**グループへの参加をリクエスト**を押します．
+
+The TPP Meeting manages a mailing list. You can subscribe to the mailing list by following the instructions below:
+1. log in to [Google Group](https://groups.google.com/).
+1. search for a group.
+    1. At the top, click **[My groups]** and select **[All groups and messages]**.
+    1. In the search box, type "Theorem Proving and Provers" and press the **Enter** key.
+1. Select "Theorem Proving and Provers" in the search list and press **[Ask to join group]**.
+
 ## これまでのTPP / Past TPPs
 [TPP2022](https://t6s.github.io/tpp2022/) /
 [TPP2021](https://t6s.github.io/tpp2021/) /
