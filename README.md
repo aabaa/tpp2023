@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{site.github.url}}/css/tpp2020.css" charset="utf-8">
+<link rel="stylesheet" href="{{site.github.url}}/css/tpp2023.css" charset="utf-8">
 
 # The 19th Theorem Proving and Provers meeting (TPP 2023)
 
@@ -56,7 +56,23 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 TBD
 
 ## TPPmark 
-TBD
+解答は中正宛(nakasho&lt;at&gt;yamaguchi-u.ac.jp)にお送りください． / Please send your answer to Nakasho (nakasho&lt;at&gt;yamaguchi-u.ac.jp).
+
+$N$ 目並べは碁盤上で行うゲームで，先手と後手の二人のプレイヤーが交互に石を置いていき，
+先に縦，横，斜めのいずれかの方向に $N$ 個の石を連続して直線上に並べたほうが勝ちです．
+以下では，盤面は無限に大きいものとします．
+1. $N$ 目並べを形式化してください．
+2. $N$ 目並べでは後手に必勝法がないことを証明してください．
+3. $N$ が十分に大きければ，先手に必勝法がないことを証明してください．
+    - ヒント: ペアリング戦略により， $N \ge 9$ であれば，先手に必勝法がないことを示せます．
+    - 参考文献: [L Győrffy, G Makay, A Pluhár: The pairing strategies of the 9-in-a-row game](https://www.math.u-szeged.hu/~lgyorffy/predok/9_pairings.pdf)
+
+In $N$-in-a-row game, the first and second players take turns placing stones on a Go board, and the winner being the player who first places its own $N$ stones in a row in either vertical, horizontal, or diagonal direction. In the following, the Go board is assumed to be infinite.
+1. Formalize $N$-in-a-row game.
+2. Prove that there is no winning strategy for the second player in $N$-in-a-row game.
+3. Prove that if $N$ is sufficiently large, the first player has no winning strategy.
+    - Hint: The pairing strategy shows that if $N \ge 9$, then there is no winning strategy for the first player.
+    - Reference: [L Győrffy, G Makay, A Pluhár: The pairing strategies of the 9-in-a-row game](https://www.math.u-szeged.hu/~lgyorffy/predok/9_pairings.pdf)
 
 ## Mailing List
 TPP研究集会はメーリングリストを運営しています．以下の手順でメーリングリストを購読することができます．
