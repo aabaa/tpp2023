@@ -33,7 +33,8 @@ We hope all participants would consider giving a talk.
 [アクセス](https://www.titech.ac.jp/0/maps) / [Access](https://www.titech.ac.jp/english/0/maps)
 
 ## 懇親会 / Dinner Party
-TBD
+- 日時: 10月30日(月) / Time: Oct. 30th Mon.
+- 会場 / Place: SHINO [On Google Map](https://maps.app.goo.gl/AJMT7CbDXdEpDJ2i9)
 
 ## 幹事 / Organizer
 
