@@ -34,7 +34,7 @@ We hope all participants would consider giving a talk.
 
 ## 懇親会 / Dinner Party
 日時: 10月30日(月) / Time: Oct. 30th Mon.  
-会場 / Place: SHINO [On Google Map](https://maps.app.goo.gl/AJMT7CbDXdEpDJ2i9) 
+会場 / Place: [ビアバー SHINO](https://tabelog.com/tokyo/A1317/A131711/13116237/) [On Google Map](https://maps.app.goo.gl/AJMT7CbDXdEpDJ2i9) 
 
 ## 幹事 / Organizer
 
