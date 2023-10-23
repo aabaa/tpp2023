@@ -34,7 +34,7 @@ We hope all participants would consider giving a talk.
 
 ## 懇親会 / Dinner Party
 日時: 10月30日(月) / Time: Oct. 30th Mon.  
-会場 / Place: [ビアバー SHINO](https://tabelog.com/tokyo/A1317/A131711/13116237/) [On Google Map](https://maps.app.goo.gl/AJMT7CbDXdEpDJ2i9) 
+会場 / Place: [ビアバー SHINO](https://tabelog.com/tokyo/A1317/A131711/13116237/) - [On Google Map](https://maps.app.goo.gl/AJMT7CbDXdEpDJ2i9) 
 
 ## 幹事 / Organizer
 中正和久 (山口大学工学部)  
@@ -125,6 +125,7 @@ The presentation schedule is yet to be determined.
   具体的には,大規模言語モデルにCoqのスクリプトとその応答を入力とし,
   次のCoqのプログラムを正解の出力として学習させる.
   大規模言語モデルがCoqのプログラムが書けるのか検証する.
+
 ## TPPmark 
 解答は中正宛(nakasho&lt;at&gt;yamaguchi-u.ac.jp)にお送りください． / Please send your answer to Nakasho (nakasho&lt;at&gt;yamaguchi-u.ac.jp).
 
