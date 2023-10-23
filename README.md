@@ -96,7 +96,7 @@ The presentation schedule is yet to be determined.
   In order to formally verify OCaml programs, we extend a Coq formalization of monadic equational reasoning with a monad to represent typed stores together with its equational theory.
   We combine this result with the output of CoqGen, an experimental compiler from OCaml to Coq, and demonstrate its usefulness with a few examples.
 * **VASSからVASへの変換の形式化** (30 min) <br/>
-  脇坂 勝大 @ 千葉大学大学院 融合理工学府<br/>
+  脇坂 勝大 @ 千葉大学大学院 融合理工学府，山本光晴 @ 千葉大学大学院 理学研究院<br/>
   VAS(Vector Addition System)とVASS(Vector Addition System with States)は状態遷移系の一種であり、
   VASSからVASへの到達可能性を保つ変換がHopcroftとPansiotにより示されている。
   本研究では、この変換をMathComp上で形式化しただけでなく、証明に用いられていた条件を一般的なものに拡張した。
