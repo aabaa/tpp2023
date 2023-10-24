@@ -19,7 +19,6 @@ As such, not only the talks about completed work, but those about ongoing
 work and half-baked work are also welcome.
 We hope all participants would consider giving a talk.
 
-
 ## 開催日程 / Date
 2023年10月30日(月)-31(火) / Mon. 30th to Tue. 31st, October 2023
 
@@ -28,13 +27,13 @@ We hope all participants would consider giving a talk.
 西8号館E棟10階大会議室 / Main Conference Room, 10F, West Bldg. 8E
 
 ## 住所 / Address
-
 〒152-8550 東京都目黒区大岡山2-12-1 / 2-12-1 Oookayama, Meguro, Tokyo 152-8550  
 [アクセス](https://www.titech.ac.jp/0/maps) / [Access](https://www.titech.ac.jp/english/0/maps)
 
 ## 懇親会 / Dinner Party
-日時: 10月30日(月) / Time: Oct. 30th Mon.  
-会場 / Place: [ビアバー SHINO](https://tabelog.com/tokyo/A1317/A131711/13116237/) - [On Google Map](https://maps.app.goo.gl/AJMT7CbDXdEpDJ2i9) 
+日時: 10月30日(月) 18:15- / Time: Oct. 30th Mon. 18:15-  
+会場 / Place: [ビアバー SHINO](https://tabelog.com/tokyo/A1317/A131711/13116237/) - ([On Google Map](https://maps.app.goo.gl/AJMT7CbDXdEpDJ2i9))  
+会費 / Party fee: 学生 / Student 3,000円，一般 / Other 6,000円
 
 ## 幹事 / Organizer
 中正和久 (山口大学工学部)  
