@@ -146,6 +146,16 @@ The presentation schedule is yet to be determined.
   本発表ではλ□のLeanによる形式化と強正規化性の証明について述べる。
   λ□は多段階計算機構を備えた言語の基礎をなす体系である。
   今回はλ□の強正規化性を他の強正規化性を持つ体系への変換を用いることで証明した。
+* **The Fundamental Theorem of Calculus for the Lebesgue Integral in MathComp-Analysis** (15 min)  
+  Reynald Affeldt @ National Institute of Advanced Industrial Science and Technology (AIST)  
+  We report on a formalization of the Fundamental Theorem of Calculus
+  (FTC) for the Lebesgue integral in the Coq proof assistant.
+  Our approach is to formalize Lebesgue's differentiation theorem, of
+  which the FTC is a consequence, because it has other applications and
+  because its proof can be decomposed in many lemmas and theorems of
+  independent interest. As a result, we significantly enrich the theories of
+  MathComp-Analysis, a formalization of functional analysis developed on
+  top of the Mathematical Components library. This is joint work with Zachary Stone.
 
 ## TPPmark 
 解答は中正宛(nakasho&lt;at&gt;yamaguchi-u.ac.jp)にお送りください． / Please send your answer to Nakasho (nakasho&lt;at&gt;yamaguchi-u.ac.jp).
