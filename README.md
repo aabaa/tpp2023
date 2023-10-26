@@ -59,7 +59,6 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 ## プログラム / Technical Program
 ### 10月30日(月) / Oct. 30th (Mon.)
 * 12:50 - 13:00 **Opening** (10 min)  
-  中正 和久 @ 山口大学  
 
 * 13:00 - 13:30 **第一級継続の最適化を行う内在的型安全コンパイル** (30 min)  
   津山 勝輝 @ 東京工業大学  
