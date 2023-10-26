@@ -126,7 +126,8 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 
 * 17:35 - 17:50 **諸連絡，Closing of Day 1** (15 min)  
 
-* 18:15 - **懇親会**
+* 18:15 - **懇親会**  
+
 ### 10月31日(火) / Oct. 31th (Tue.)
 * 10:00 - 10:45 **TPPMark** (45 min)  
   中正 和久 @ 山口大学
