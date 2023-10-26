@@ -58,7 +58,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 
 ## プログラム / Technical Program
 ### 10月30日(月) / Oct. 30th (Mon.)
-* 12:50 - 13:00 Opening (10 min)  
+* 12:50 - 13:00 **Opening** (10 min)  
   中正 和久 @ 山口大学  
 
 * 13:00 - 13:30 **第一級継続の最適化を行う内在的型安全コンパイル** (30 min)  
@@ -85,7 +85,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   In this presentation of this unfinished work, the speaker would like to share this project
   which crosses the domain of security and theorem proving, for the motivation, the progress, and difficulties.
 
-* 14:45 - 14:55 Break (10 min)
+* 14:45 - 14:55 **Break** (10 min)
 
 * 14:55 - 15:25 **TBA** (30 min)  
   QI Xuanrui @ 名古屋大学多元数理科学研究科  
@@ -98,7 +98,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 * 15:55 - 16:25 **Coqによるマッチング理論の形式化** (30 min)
   辻 陽介 @ 北見工業大学  
 
-* 16:25 - 16:35 Break (10 min)
+* 16:25 - 16:35 **Break** (10 min)
 
 * 16:35 - 17:05 **Environment-friendly monadic equational reasoning for OCaml** (30 min)  
   Jacques Garrigue @ 名古屋大学  
@@ -129,10 +129,10 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 * 17:35 - 17:45 **共同利用プロジェクト研究に関するご案内** (10 min)  
   溝口 佳寛 @ 九州大学  
 
-* 17:45 - 17:50 Closing of Day 1 (5 min)  
+* 17:45 - 17:50 **Closing of Day 1** (5 min)  
 
 ### 10月31日(火) / Oct. 31th (Tue.)
-* 10:00 - 10:45 TPPMark (45 min)  
+* 10:00 - 10:45 **TPPMark** (45 min)  
   中正 和久 @ 山口大学
 
 * 10:45 - 11:15 **簡易な検証器の実装を通じた形式証明の実践講義の可能性** (30 min)  
@@ -154,7 +154,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   λ□は多段階計算機構を備えた言語の基礎をなす体系である。
   今回はλ□の強正規化性を他の強正規化性を持つ体系への変換を用いることで証明した。
 
-* 11:45 - 12:45 Lunch Break (10 min)
+* 11:45 - 12:45 **Lunch Break** (10 min)
 
 * 12:45 - 13:15 **計算可能解析学とCoq / Computable Analysis and Coq** (30 min)  
   Holger Thies @ 京都大学 大学院人間・環境学研究科  
@@ -179,7 +179,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   本研究では、この変換をMathComp上で形式化しただけでなく、証明に用いられていた条件を一般的なものに拡張した。
   さらにHopcroftらの変換の改良を与え、その最小性も形式化した。
 
-* 14:30 - 14:40 Break (10 min)
+* 14:30 - 14:40 **Break** (10 min)
 
 * 14:40 - 15:10 **スポーツ選手の移籍トレード先決定アルゴリズムのCoq/SSReflectによる検証** (30 min)  
   Kenta Inoue @ BELONG  
@@ -201,7 +201,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   本講演では、差分プライバシーの形式検証のためのIsabelle/HOLライブラリの構成の途中経過を紹介する。
   今回紹介する内容は、(1) 差分プライバシーの基となる統計的距離 (2)ラプラス分布 (3) 差分プライバシーの基本的なメカニズムの形式化 (4) リスト可測空間の位相的圏構造に基づく構成の４つである。
 
-* 16:10 - 16:20 Closing (10 min)  
+* 16:10 - 16:20 **Closing** (10 min)  
 
 ## TPPmark 
 解答は中正宛(nakasho&lt;at&gt;yamaguchi-u.ac.jp)にお送りください． / Please send your answer to Nakasho (nakasho&lt;at&gt;yamaguchi-u.ac.jp).
