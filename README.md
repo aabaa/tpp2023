@@ -181,7 +181,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 * 14:30 - 14:40 **Break** (10 min)
 
 * 14:40 - 15:10 **スポーツ選手の移籍トレード先決定アルゴリズムのCoq/SSReflectによる検証** (30 min)  
-  Kenta Inoue @ BELONG  
+  Kenta Inoue  
   チームスポーツの世界ではチーム同士で選手の移籍トレードを行うことがある。
   このトレードを複数チームで同時に行うときの選手の移籍先決定アルゴリズムについてCoq/SSReflectでの検証する。
 
