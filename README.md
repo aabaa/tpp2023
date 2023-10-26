@@ -26,10 +26,9 @@ We hope all participants would consider giving a talk.
 東京工業大学・大岡山キャンパス / Tokyo Institute of Technology, Ookayama Campus  
 西8号館E棟10階大会議室 / Main Conference Room, 10F, West Bldg. 8E
 
-下記の地図の21の建物です．/ building 21 on the map below.  
-https://www.titech.ac.jp/0/maps/ookayama/ookayama  
-入り口が3階です，入り口を入って少し進んで, 左側のエレベーターで10階に進んでください． /
-The entrance is on the 3rd floor. Please enter the entrance, go a little further and take the elevator on the left to the 10th floor.  
+下記の地図の21の建物です．入り口が3階です，入り口を入って少し進んで, 左側のエレベーターで10階に進んでください．  
+Building 21 on the map below. The entrance is on the 3rd floor. Please enter the entrance, go a little further and take the elevator on the left to the 10th floor.  
+- [map](https://www.titech.ac.jp/0/maps/ookayama/ookayama)
 
 ## 住所 / Address
 〒152-8550 東京都目黒区大岡山2-12-1 / 2-12-1 Oookayama, Meguro, Tokyo 152-8550  
