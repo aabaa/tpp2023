@@ -89,9 +89,19 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   QI Xuanrui @ 名古屋大学多元数理科学研究科  
   TBA
 
-* 15:25 - 15:55 **TBA** (30 min)  
+* 15:25 - 15:55 **Typed compositional quantum computation with lenses** (30 min)  
   才川 隆文 @ 名古屋大学  
-  TBA
+  We propose a type-theoretic framework for describing and proving properties
+  of quantum computations, in particular those presented as quantum circuits.
+  Our proposal is based on an observation that,
+  in the polymorphic type system of Coq, currying on quantum states
+  allows us to apply quantum gates directly inside a complex circuit.
+  By introducing a discrete notion of lens to control this currying,
+  we are further able to separate the combinatorics of the circuit structure
+  from the computational content of gates.
+  We prove a number of examples, such as the correctness of Shor
+  coding (only for an error-free channel at this point),
+  or of the reverse circuit.
 
 * 15:55 - 16:25 **Coqによるマッチング理論の形式化** (30 min)  
   辻 陽介 @ 北見工業大学  
