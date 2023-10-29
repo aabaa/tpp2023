@@ -85,9 +85,19 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 
 * 14:45 - 14:55 **Break** (10 min)
 
-* 14:55 - 15:25 **TBA** (30 min)  
+* 14:55 - 15:25 **Synthetic geometry in Lean 4: early experiments with Mathlib4** (30 min)  
   QI Xuanrui @ 名古屋大学多元数理科学研究科  
-  TBA
+  In this talk, we report on a currently nascent experiment on
+  formalizing synthetic algebraic geometry (Cherubini et al, 2023) in the
+  Lean 4 theorem prover. While the original formalization uses Cubical
+  Agda and higher topos theoretic techniques, we experiment with
+  formalizing the segment that does not require higher type theory in
+  Lean 4. Lean 4 and Mathlib4, which had their first stable release
+  fairly recently, is still new to most users. In this talk, I discuss my
+  plans for and progress on formalizing synthetic algebraic geometry, as
+  well as the advantages I see in Lean 4 and challenges I face working
+  with it, speaking from the POV of a proof assistant user whose main PA
+  is not Lean.
 
 * 15:25 - 15:55 **Typed compositional quantum computation with lenses** (30 min)  
   才川 隆文 @ 名古屋大学  
