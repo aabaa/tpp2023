@@ -218,6 +218,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 ## TPPmark 
 解答は中正宛(nakasho&lt;at&gt;yamaguchi-u.ac.jp)にお送りください． / Please send your answer to Nakasho (nakasho&lt;at&gt;yamaguchi-u.ac.jp).
 
+### 問題
 N目並べは碁盤上で行うゲームで，先手と後手の二人のプレイヤーが交互に石を置いていき，
 先に縦，横，斜めのいずれかの方向にN個の石を連続して直線上に並べたほうが勝ちです．
 以下では，盤面は無限に大きいものとします．
@@ -233,6 +234,12 @@ In N-in-a-row game, the first and second players take turns placing stones on a 
 3. Prove that if N is sufficiently large, the first player has no winning strategy.
     - Hint: The pairing strategy shows that if N ≧ 9, then there is no winning strategy for the first player.
     - Reference: [L Győrffy, G Makay, A Pluhár: The pairing strategies of the 9-in-a-row game](https://www.math.u-szeged.hu/~lgyorffy/predok/9_pairings.pdf)
+
+### 解答
+- 金沢 誠 先生（法政大）
+  - [source code (Agda)](https://makotokanazawa.ws.hosei.ac.jp/Agda/tpp2023/TPPmark.html)
+- 山本 光晴 先生（千葉大）
+  - [source code (Coq)](./tppmark/yamamoto/tppmark23-mituharu.v)
 
 ## Mailing List
 TPP研究集会はメーリングリストを運営しています．以下の手順でメーリングリストを購読することができます．
