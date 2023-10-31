@@ -195,7 +195,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   Such rigorous and general formulation seems very rare; at least I cannot find any similar documentation on the web.
 
 * 14:00 - 14:30 **VASSからVASへの変換の形式化** (30 min)  
-  脇坂 勝大 @ 千葉大学大学院 融合理工学府，山本光晴 @ 千葉大学大学院 理学研究院  
+  脇坂 勝大 @ 千葉大学大学院 融合理工学府，山本 光晴 @ 千葉大学大学院 理学研究院  
   VAS(Vector Addition System)とVASS(Vector Addition System with States)は状態遷移系の一種であり、
   VASSからVASへの到達可能性を保つ変換がHopcroftとPansiotにより示されている。
   本研究では、この変換をMathComp上で形式化しただけでなく、証明に用いられていた条件を一般的なものに拡張した。
