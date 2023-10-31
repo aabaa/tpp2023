@@ -99,7 +99,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   with it, speaking from the POV of a proof assistant user whose main PA
   is not Lean.
 
-* 15:25 - 15:55 **Typed compositional quantum computation with lenses** (30 min)  
+* 15:25 - 15:55 **Typed compositional quantum computation with lenses** (30 min) ([slides](presentation/saikawa.pdf))  
   才川 隆文 @ 名古屋大学  
   We propose a type-theoretic framework for describing and proving properties
   of quantum computations, in particular those presented as quantum circuits.
@@ -123,7 +123,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 
 * 16:25 - 16:35 **Break** (10 min)
 
-* 16:35 - 17:05 **Environment-friendly monadic equational reasoning for OCaml** (30 min)  
+* 16:35 - 17:05 **Environment-friendly monadic equational reasoning for OCaml** (30 min) ([slides](presentation/garrigue.pdf))  
   Jacques Garrigue @ 名古屋大学  
   In order to formally verify OCaml programs,
   we extend a Coq formalization of monadic equational reasoning with a monad to represent typed stores together with its equational theory.
@@ -183,7 +183,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   この講演では、Coqを用いた計算可能解析と厳密実数計算の形式的検証に関する現在進行中の研究と、プログラム抽出への応用について紹介します。
   In this talk we present some recent progress on ongoing work on the formalization of computable analysis and exact real computation in Coq and some applications to program extraction.
 
-* 13:15 - 14:00 **Formalizing Life Table in Isabelle/HOL** (45 min)  
+* 13:15 - 14:00 **Formalizing Life Table in Isabelle/HOL** (45 min)  ([slides](presentation/ito.pdf))  
   伊藤 洋介 / Yosuke Ito @ ＳＯＭＰＯひまわり生命保険株式会社 / Sompo Himawari Life Insurance Inc.   
   Actuarial Mathematics is a theory in applied mathematics,
   which is mainly used for determining the prices of insurance products
@@ -194,7 +194,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   This formalization is based on the probability theory, and the survival model is developed as generally as possible.
   Such rigorous and general formulation seems very rare; at least I cannot find any similar documentation on the web.
 
-* 14:00 - 14:30 **VASSからVASへの変換の形式化** (30 min)  
+* 14:00 - 14:30 **VASSからVASへの変換の形式化** (30 min) ([slides](presentation/wakisaka.pdf))  
   脇坂 勝大 @ 千葉大学大学院 融合理工学府，山本 光晴 @ 千葉大学大学院 理学研究院  
   VAS(Vector Addition System)とVASS(Vector Addition System with States)は状態遷移系の一種であり、
   VASSからVASへの到達可能性を保つ変換がHopcroftとPansiotにより示されている。
