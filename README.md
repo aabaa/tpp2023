@@ -74,7 +74,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   Leanにおいてモノイダル圏の射およびbicategoryの2射を計算する方法を説明する。
   特に、coherece定理をメタプログラミングのレベルで用いることでアソシエーターのつきまとう計算が簡単に行えるようになることを説明する。
 
-* 14:15 - 14:45 **Verifying safety of a MPC/SMC language: the motivation, the progress, and difficulties** (30 min)  
+* 14:15 - 14:45 **Verifying safety of a MPC/SMC language: the motivation, the progress, and difficulties** (30 min)  ([slides](presentation/greg.pdf))  
   Greg Weng @ Mercari x 名古屋大学多元数理科学研究科  
   We report on our ongoing efforts of verifying the safety of a MPC/SMC domain-specific language.
   MPC/SMC is a domain focusing on two or more parties collaboratively compute desired results
@@ -163,7 +163,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   「検証器の実装を通じて理解する」という大学院講義を2022年度に東京工業大学情報理工学院において行ったので、
   その経験や教訓、課題や展望について報告する。
 
-* 11:15 - 11:30 **Coq と大規模言語モデルによる定理証明** (15 min)  
+* 11:15 - 11:30 **Coq と大規模言語モデルによる定理証明** (15 min) ([slides](presentation/suzuki.pdf))  
   鈴木 彩加 @ 明治大学  
   定理証明支援系Coqの証明を大規模言語モデルに書かせることにより,定理の検証の自動化を目指す.
   具体的には,大規模言語モデルにCoqのスクリプトとその応答を入力とし,
