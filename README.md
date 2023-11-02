@@ -178,12 +178,12 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 
 * 11:45 - 12:45 **Lunch Break** (10 min)
 
-* 12:45 - 13:15 **計算可能解析学とCoq / Computable Analysis and Coq** (30 min)  
+* 12:45 - 13:15 **計算可能解析学とCoq / Computable Analysis and Coq** (30 min) ([slides](presentation/thies.pdf))  
   Holger Thies @ 京都大学 大学院人間・環境学研究科  
   この講演では、Coqを用いた計算可能解析と厳密実数計算の形式的検証に関する現在進行中の研究と、プログラム抽出への応用について紹介します。
   In this talk we present some recent progress on ongoing work on the formalization of computable analysis and exact real computation in Coq and some applications to program extraction.
 
-* 13:15 - 14:00 **Formalizing Life Table in Isabelle/HOL** (45 min)  ([slides](presentation/ito.pdf))  
+* 13:15 - 14:00 **Formalizing Life Table in Isabelle/HOL** (45 min) ([slides](presentation/ito.pdf))  
   伊藤 洋介 / Yosuke Ito @ ＳＯＭＰＯひまわり生命保険株式会社 / Sompo Himawari Life Insurance Inc.   
   Actuarial Mathematics is a theory in applied mathematics,
   which is mainly used for determining the prices of insurance products
