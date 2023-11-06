@@ -113,7 +113,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
   coding (only for an error-free channel at this point),
   or of the reverse circuit.
 
-* 15:55 - 16:25 **Coqによるマッチング理論の形式化** (30 min)  
+* 15:55 - 16:25 **Coqによるマッチング理論の形式化** (30 min) ([slides](presentation/tsuji.pdf))  
   辻 陽介 @ 北見工業大学  
   マッチング理論はグラフ理論における主要分野のひとつで、資源配分問題等に応用される分野である。
   グラフのマッチングとは頂点を共有しない辺の集まりのことであり、特別なマッチングとして極大マッチング、誘導マッチングがある。
