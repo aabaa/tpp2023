@@ -85,7 +85,7 @@ Email: minamide&lt;at&gt;is.titech.ac.jp
 
 * 14:45 - 14:55 **Break** (10 min)
 
-* 14:55 - 15:25 **Synthetic geometry in Lean 4: early experiments with Mathlib4** (30 min)  
+* 14:55 - 15:25 **Synthetic geometry in Lean 4: early experiments with Mathlib4** (30 min) ([slides](presentation/qi.pdf))  
   QI Xuanrui @ 名古屋大学多元数理科学研究科  
   In this talk, we report on a currently nascent experiment on
   formalizing synthetic algebraic geometry (Cherubini et al, 2023) in the
